@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoinHippo-Labs/coinhippo-ui.git"
+    "url": "git+https://github.com"
   },
   "author": "XChain",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CoinHippo-Labs/coinhippo-ui/issues"
+    "url": "https://github.com"
   },
-  "homepage": "https://github.com/CoinHippo-Labs/coinhippo-ui#readme",
+  "homepage": "https://github.com",
   "dependencies": {
     "@0xsquid/sdk": "1.1.0-beta.7",
     "@redux-devtools/extension": "^3.2.3",
